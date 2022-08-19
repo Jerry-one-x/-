@@ -1,5 +1,6 @@
 <view class="containner"> 
 <image src="/images/bac13.png" class="bac13"></image>
+<!-- 对animal的第一次修改 -->
 <view class="flower-word">
     <view class="flower-word1">动物香料</view>
 </view>
