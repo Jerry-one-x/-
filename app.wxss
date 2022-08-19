@@ -1,0 +1,15 @@
+.containner{
+    background-color: rgba(252, 250, 250);
+}
+.textword{
+    position: absolute;
+    margin-top: -138rpx;
+    margin-left: 80rpx;
+    width: 158rpx;
+    height: 86rpx;
+    opacity: 1;
+    font-size: 48rpx;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}

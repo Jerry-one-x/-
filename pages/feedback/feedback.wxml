@@ -1,0 +1,11 @@
+<view class="containner">
+<view class="feedback-box1">意见反馈</view>
+<view class="feedback-box2">
+    <textarea class="feedback-boxword"  placeholder="写下你想说的" confirm-type="done" bindinput="handleAdvice" >   
+    </textarea>
+</view>
+<navigator open-type="switchTab" url="/pages/mine/mine">
+    <view class="feedback-box3" bindtap="submit">提交</view>
+</navigator>
+<view style="height: 550rpx;"></view>
+</view>

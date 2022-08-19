@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac10.png" class="bac10" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">杉木精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            分布于中国和越南。杉木为亚热带树种，较喜光。喜温暖湿润，多雾静风的气候环境，不耐严寒及湿热，怕风，怕旱。适应年平均温度15-23℃，极端最低温度-17℃，年降水量800-2000毫米的气候条件。杉木为中国长江流域、秦岭以南地区栽培最广、生长快、经济价值高的用材树种。木材黄白色，供建筑、桥梁、造船，可做行道树及营造防风林。同时具有药用价值。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            杉精油能直接作用于人类的呼吸系统，它能提高人类呼吸功能，并能阻止呼吸系统感染，具有超强的抗菌能力，还能增强呼吸上皮细胞的活性，提高他的抗病毒能力，也是她预防上呼吸道感染的重要因素。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>蒸馏</view>
+            <view>杉科杉木属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>枝叶</view>
+        </view>
+    </view>
+</view>
+</view>

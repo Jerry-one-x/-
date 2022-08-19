@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/flower-img5.png" class="bac7" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">葡萄柚精油</view>
+    <view class="rose-box1" style="height: 362rpx;">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            葡萄柚起源于亚洲，它是人工种植的树种，早期欧洲人拿来当装饰﹑布置庭院用，约于1750 年在拉丁美洲巴巴多斯群岛的加勒比海岛上被发现，之后才开始慢慢商业化种植，主要在美国、巴西和以色列栽种。葡萄柚果实是从一种叶片光滑的树上采摘的，树高10m，白色花，果实巨大、淡黄色。精油腺埋入在果皮深处，只能产少量的精油。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            葡萄精油能滋养组织细胞，增加体力，舒缓支气管炎，利尿，改善肥胖，水肿及淋巴腺系统之疾病，抗感染。葡萄柚精油还可以抗忧郁，尤其在冬天出现的忧郁或昏昏欲睡等症状，可以使人恢复精神，是季节性精神失调的调节剂。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>冷榨</view>
+            <view>芸香科柑橘亚属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>果皮</view>
+        </view>
+    </view>
+</view>
+</view>

@@ -1,0 +1,62 @@
+<!-- 背景图包括品牌icon -->
+<view class="background">
+  <view class="background_img">
+    <image src="/images/lk_bg.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_brand">
+    <image src="/images/lk.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_line">
+    <image src="/images/bg_line.png" mode="aspectFit"></image>
+  </view>
+</view>
+
+<!-- 内容 -->
+<view class="content1">
+  <view class="content1_title">
+  <image src="/images/content_ppjj.png" mode="aspectFit"></image>
+  </view>
+  <view class="content1_body">
+    是一款法国国宝级化妆品品牌，迄今已有70年历史。自创立伊始就以一朵含苞待放的玫瑰做品牌标记。在近七十年的时间里，兰蔻以其独特的品牌理念实践着对全世界女性美的承诺，给无数爱美的女性带去了美丽与梦想。
+  </view>
+</view>
+<view class="content2">
+  <view class="content1_title">
+    <image src="/images/content_txs.png" mode="aspectFit"></image>
+  </view>
+  <view class="content2_body">
+    <view class="content2_txsimg">
+      <image src="/images/amd.png" mode="aspectFit"></image>
+    </view>
+    <view class="content2_txstext">
+      <view class="content2_txs1">
+        阿曼达·珀蒂让
+      </view>
+      <view class="content2_txs2">
+        法国调香师，也是兰蔻的创始人，凭借着对香水的敏感嗅觉，执着不懈的冒险精神，他取得了巨大成功，被誉为“20世纪奢华香水之父”
+      </view>
+    </view>
+  </view>
+</view>
+<view class="content3">
+  <view class="content1_title">
+    <image src="/images/content_pprx.png" mode="aspectFit"></image>
+  </view>
+  <view class="content3_body">
+    <view class="content3_container">
+      <view class="cb_single">
+        <image src="/images/mlrs.png" mode="aspectFit"></image>
+        <view>美丽人生</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/sw.png" mode="aspectFit"></image>
+        <view>是我</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/qj.png" mode="aspectFit"></image>
+        <view>奇迹</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="blank"></view>

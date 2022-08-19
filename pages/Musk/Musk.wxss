@@ -1,0 +1,49 @@
+.bac16{
+    position: relative;
+    height: 288rpx;
+    width: 750rpx;
+    background-color: rgba(163, 148, 139, 1);
+}
+.picture{
+    position: relative;
+    width: 250rpx;
+    height: 250rpx;
+    margin-top: -172rpx;
+    margin-left: 54rpx;
+    border-radius: 30rpx;
+}
+.animal-word{
+    margin-left: 44rpx;
+    margin-top: 34rpx;
+    width: 192rpx;
+    height: 64rpx;
+    text-align: center;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 50rpx;
+    font-size: 36rpx;        
+    color: rgba(0, 0, 0, 1);    
+    line-height: 30px;
+}
+.animal-word1{
+    margin-left: 38rpx;
+    margin-top: 60rpx;
+    width: 673rpx;
+    height: 300rpx;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 34rpx;          
+}
+.animal-word2{
+    width: 644rpx;
+    margin-left: 16rpx;
+    letter-spacing: 4rpx;
+}
+.line{
+    margin-top: 32rpx;
+    margin-left: 52rpx;
+    width: 644rpx;
+    height: 8rpx;
+     /* opacity: 1; */
+    background: rgba(0, 0, 0, 1); 
+}

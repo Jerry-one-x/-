@@ -1,0 +1,62 @@
+<!-- 背景图包括品牌icon -->
+<view class="background">
+  <view class="background_img">
+    <image src="/images/zml_bg.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_brand">
+    <image src="/images/zml.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_line">
+    <image src="/images/bg_line.png" mode="aspectFit"></image>
+  </view>
+</view>
+
+<!-- 内容 -->
+<view class="content1">
+  <view class="content1_title">
+  <image src="/images/content_ppjj.png" mode="aspectFit"></image>
+  </view>
+  <view class="content1_body">
+    英国化妆品品牌，它的特色是个性化，高品质和与众不同的香水，在西方有着香水世界女王的美誉。其香水以其简单纯粹而为诸多明星和上流阶层所喜爱。香水一贯风格为高贵、淡雅，与众不同。
+  </view>
+</view>
+<view class="content2">
+  <view class="content1_title">
+    <image src="/images/content_txs.png" mode="aspectFit"></image>
+  </view>
+  <view class="content2_body">
+    <view class="content2_txsimg">
+      <image src="/images/zmlper.png" mode="aspectFit"></image>
+    </view>
+    <view class="content2_txstext">
+      <view class="content2_txs1">
+        祖马龙
+      </view>
+      <view class="content2_txs2">
+        英国调香师，被称为“英国香水特独立行者”，创造了世界上广受欢迎的香水，1994年创立个人同名品牌祖马龙，在世界上获得了极高的声誉
+      </view>
+    </view>
+  </view>
+</view>
+<view class="content3">
+  <view class="content1_title">
+    <image src="/images/content_pprx.png" mode="aspectFit"></image>
+  </view>
+  <view class="content3_body">
+    <view class="content3_container">
+      <view class="cb_single">
+        <image src="/images/lfl.png" mode="aspectFit"></image>
+        <view>蓝风铃</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/fhymr.png" mode="aspectFit"></image>
+        <view>绯红虞美人</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/yglyxcl.png" mode="aspectFit"></image>
+        <view>英国梨与小苍兰</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="blank"></view>

@@ -1,0 +1,28 @@
+<view class="containner" style="height:1880rpx">
+<image src="/images/bac1.png" class="bac1"></image>
+<view class="flower-word">
+    <view class="flower-word1">花香型香氛</view>
+</view>
+<view class="flower">
+    <view class="flower-word2" style="margin-top: 22rpx;">原料</view>
+    <view class="flower-word3">
+        <view class="flower-word3too">
+            目前，用于制造香料的花香非常丰富，合欢花、白苏、木樨草、波罗尼花、卡罗花、黄姜花、蜡菊、金盏花、金香木，玫瑰、茉莉、康乃馨、紫罗兰、晚香玉、熏衣草、风信、金银花、水仙、苦橙花、香橙花、长寿花、依兰、木棵、黄菊等。它们都需要特殊的加工，才可以成为香氛。
+        </view>
+    </view>
+    <view class="line"></view>
+    <view class="flower-word2 two">常见精油</view>
+        <navigator url="/pages/rose/rose" hover-class="none">
+            <image src="/images/flower-img1.png" class="flower-img" mode="aspectFill"></image>
+            <view class="white-word">玫瑰精油</view>
+        </navigator>
+        <navigator url="/pages/Cananga_odorata/Cananga_odorata" hover-class="none">
+            <image src="/images/flower-img2.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">依兰精油</view>
+        </navigator>
+        <navigator url="/pages/Neroli/Neroli" hover-class="none">
+            <image src="/images/flower-img3.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">橙花精油</view>
+        </navigator>
+</view>
+</view>

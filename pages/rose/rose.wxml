@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac2.png" class="bac2" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">玫瑰精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too">
+            玫瑰鲜花在清晨摘下后24小时内即取出黄褐色的玫瑰精油，大约五吨重的花朵只能提炼出两磅的玫瑰油，所以是全世界最贵的精油之一。玫瑰精油是世界名贵的高级浓缩香精，是香精油中的精品，是制造高级名贵香水的既重要又昂贵的原料，不但用来制美容、护肤、护发等化妆品，还广泛用于医药和食品。用玫瑰水治疗神经衰弱，用玫瑰熏香治疗肺病，用玫瑰花汁治疗心脏病和肾病。玫瑰油是玫瑰基本的药用成分。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            自然的芳香经由嗅觉神经进入脑部后，能刺激大脑前叶分泌出内啡汰及脑啡汰两种荷尔蒙，使精神呈现最舒适的状态，这是守护心灵的最佳良方；能调节内分泌器官，促进荷尔蒙分泌，补身；能适用于各种皮肤，发挥紧实、舒缓的特性，滋养皮肤，延缓衰老。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>蒸馏</view>
+            <view>蔷薇科蔷薇属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>花瓣</view>
+        </view>
+    </view>
+</view>
+</view>

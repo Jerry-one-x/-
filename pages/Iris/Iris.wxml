@@ -1,0 +1,32 @@
+<view class="containner"> 
+<view class="bac19"></view>
+<image class="picture" src="/images/bac19.png" mode="aspectFill"></image>
+<view class="textword" style="margin-left:96rpx;margin-top: -150rpx;">鸢尾花</view>
+<view class="Lavender">
+    <view class="line" style="margin-top: 18rpx;"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">植物科属</view>
+        <view class="Lavender-boxword2">利用部分</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">鸢尾科</view>
+        <view class="Lavender-boxword4">根茎</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">产地</view>
+        <view class="Lavender-boxword2">别名</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">中国、日本</view>
+        <view class="Lavender-boxword4">蓝蝴蝶</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box3">功效</view>
+    <view class="Lavender-box4">
+        <view class="Lavender-boxword5">
+            其根状茎可作中药，全年可采，具有消炎作用，活血祛瘀，祛风利湿，解毒，消积。用于跌打损伤，风湿疼痛，咽喉肿痛，食积腹胀，疟疾；外用治痈疖肿毒，外伤出血。鸢尾花在中国常用以象征爱情和友谊，鹏程万里，前途无量，明察秋毫，在爱情里面，鸢尾花代表恋爱使者，鸢尾的花语是长久思念。
+        </view>
+    </view>
+</view>
+</view>

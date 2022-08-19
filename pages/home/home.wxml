@@ -1,0 +1,88 @@
+
+
+<view class="home-swiper">
+  <!-- 轮播图 -->
+  <swiper class="banners" autoplay="true">
+    <swiper-item>
+      <image src="/images/background.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/_background.png"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/__background.png"></image>
+    </swiper-item>
+  </swiper>
+
+  <!-- 搜索框 -->
+  <!-- 一般情况下 -->
+  <view class='search' wx:if="{{!focus}}"> 
+    <image class='search_icon' src='/icon/search.png' mode='aspectFit'></image>
+    <input class='sou_input' type="text" placeholder='请输入关键字' placeholder-class="sou_text" confirm-type="search" bindfocus="focusHandler"/>
+  </view>
+  <!-- 获得焦点时多一个取消icon -->
+  <view class='search' id="asearch" wx:if="{{focus}}"> 
+    <image class='search_icon' src='/icon/search.png' mode='aspectFit'></image>
+    <input class='sou_input' type="text"  placeholder='请输入关键字' placeholder-class="sou_text" value="{{inputValue}}" confirm-type="search" bindinput='query' />
+    <image class='search_cancel' src='/icon/cancel.png' mode="aspectFit" bindtap="cancelHandler"></image>
+  </view>
+  <!-- 搜索结果显示框 -->
+  <scroll-view wx:if="{{focus}}" class="scrollview" scroll-y="true">
+    <view wx:for="{{list}}" wx:key="name">
+      <view class="scrollItem "  bindtap="jump">
+        <view class="font1 " id="{{item.id}}" > {{item.name}} </view>
+      </view>
+    </view>
+  </scroll-view>
+
+  <!-- 每日推荐 -->
+  <view class="daily" bindtap="goDaily">
+    <view class="daily_left">
+      <view class="text">每日推荐</view>
+    </view>
+    <view class="daily_right">
+      <view class="text_title" value="嘉柏丽尔天性香水">嘉柏丽尔天性香水</view>
+      <view class="text_content">是一款耀眼夺目，柔和深邃的花香调香水</view>
+    </view>
+
+
+    
+</view>
+</view>
+
+<!-- 热门大牌 -->
+<view class="hotBrand">
+  <view class="brand_head">
+    热销大牌
+  </view>
+  <view class="brand_container">
+    <view class="brand_sep" bindtap="brand_description1">
+      <image src="/images/chanel.png" mode='aspectFit'></image>
+      <view>香奈儿</view>
+    </view>
+    <view class="brand_sep" bindtap="brand_description2">
+      <image src="/images/zml.png" mode='aspectFit'></image>
+      <view>祖马龙</view>
+    </view>
+    <view class="brand_sep" bindtap="brand_description3">
+      <image src="/images/jl.png" mode='aspectFit'></image>
+      <view>法国娇兰</view>
+    </view>
+    <view class="brand_sep" bindtap="brand_description4">
+      <image src="/images/dior.png" mode='aspectFit'></image>
+      <view>迪奥</view>
+    </view>
+    <view class="brand_sep" bindtap="brand_description5">
+      <image src="/images/lk.png" mode='aspectFit'></image>
+      <view>兰蔻</view>
+    </view>
+    <view class="brand_sep" bindtap="brand_description6">
+      <image src="/images/tf.png" mode='aspectFit'></image>
+      <view>汤姆·福特</view>
+    </view>
+  </view>
+  <view></view>
+</view>
+
+<view class="blank"></view>
+

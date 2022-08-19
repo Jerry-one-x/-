@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac3.png" class="bac3" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">依兰精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too">
+            这种“花中之花”语音源自马来语的“Alang-ilang”。形容这种花悬吊摇曳的风姿。这种树显然是“东方的王冠”，又名“香水树”。南海一带的妇女，都用依兰精油调以椰子油来整理头发。在欧洲，它也是发油中的成分之一。精油含义代表“纯洁的爱”。印度尼西亚人有个很可爱的传统，他们总会在新婚夫妻的床上遍洒依兰花瓣，1900年以前，菲律宾独占依兰的世界贸易市场。依兰有时又被称作“穷人的茉莉”，事实上，它总是出现于高级香水中。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            淋浴后有让人觉得绮丽的实际效果，对紧张焦虑的人可造成快乐、镇静及降血压的实际效果，因此对焦虑情绪、焦虑不安和高血压层面的缓解实际效果很好，也是知名清除人类的挫败感及恼怒感的单方精油。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 14px;" >
+            <view>蒸馏</view>
+            <view>番荔枝科</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: -8rpx;">
+            <view>强</view>
+            <view>花瓣</view>
+        </view>
+    </view>
+</view>
+</view>

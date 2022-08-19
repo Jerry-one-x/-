@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac12.png" class="bac12" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">檀香木精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            常绿小乔木，高约10米；枝圆柱状，带灰褐色，具条纹，有多数皮孔和半圆形的叶痕；小枝细长，淡绿色，节间稍肿大。叶椭圆状卵形，顶端锐尖，基部楔形或阔楔形，多少下延，边缘波状，稍外折，背面有白粉，中脉在背面凸起，侧脉约10对，网脉不明显。长期以来，檀香与宗教活动密切相关，特别是东方人，在传统和意识上对檀香树情有独钟，赋予了檀香树神秘的色彩。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            慢性支气管炎的粘液分泌、所有的泌反毛病，用于治腹泻。 亚洲与阿拉伯人常用檀香精油来治疗多种疾病。同时檀香的香气也有安神、帮助睡眠的作用。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>亚临界低温萃取</view>
+            <view>山矾科山矾属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view style="margin-left: 22px;">强</view>
+            <view style="margin-left: 40px;">老化的内芯</view>
+        </view>
+    </view>
+</view>
+</view>

@@ -1,0 +1,28 @@
+<view class="containner" style="height:1940rpx">
+<image src="/images/bac5.png" class="bac5" style="margin-top: -6rpx;"></image>
+<view class="flower-word">
+    <view class="flower-word1">柑橘型香氛</view>
+</view>
+<view class="flower">
+    <view class="flower-word2" style="margin-top: 22rpx;">原料</view>
+    <view class="flower-word3" style="height: 424rpx;">
+        <view class="flower-word3too" >
+            在天然原料中包含甜橙精油、苦橙精油，另外还有红橘精油、莱姆精油、佛手柑精油、葡萄柚精油、柠檬精油。柑橘调原料还包括单离香料柠檬醛，柠檬烯。另外还有人工合成产品，比如德之馨的圆柚甲烷和奇华顿的二甲基辛烯酮。柑橘调可以与其他所有原料完美融合，任何配方都可以配柑橘调，柑橘调在配方中的剂量可能会很高，因为它不会妨碍其它香味，柑橘调原料的挥发性很强，它可以给香水一个非常好的开始，印象分很棒。
+        </view>
+    </view>
+    <view class="line"></view>
+    <view class="flower-word2 two">常见精油</view>
+        <navigator url="/pages/bergamot/bergamot" hover-class="none">
+            <image src="/images/flower-img4.png" class="flower-img" mode="aspectFill"></image>
+            <view class="white-word">佛手柑精油</view>
+        </navigator>
+        <navigator url="/pages/Grapefruit/Grapefruit" hover-class="none">
+            <image src="/images/flower-img5.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">葡萄柚精油</view>
+        </navigator>
+        <navigator url="/pages/Lemon/Lemon" hover-class="none">
+            <image src="/images/flower-img6.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">柠檬精油</view>
+        </navigator>
+</view>
+</view>

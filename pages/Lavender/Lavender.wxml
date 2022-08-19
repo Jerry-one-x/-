@@ -1,0 +1,32 @@
+<view class="containner">
+<view class="bac18"></view>
+<image class="picture" src="/images/bac18.png" mode="aspectFill"></image>
+<view class="textword" style="margin-left:96rpx;margin-top: -150rpx;">薰衣草</view>
+<view class="Lavender">
+    <view class="line" style="margin-top: 18rpx;"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">植物科属</view>
+        <view class="Lavender-boxword2">利用部分</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">唇形科薰衣草属</view>
+        <view class="Lavender-boxword4">全株可用</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">产地</view>
+        <view class="Lavender-boxword2">别名</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">原产地中海沿岸</view>
+        <view class="Lavender-boxword4">香浴草</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box3">功效</view>
+    <view class="Lavender-box4">
+        <view class="Lavender-boxword5">
+            薰衣草是公认最具有镇静，舒缓，催眠作用的植物。它能舒缓紧张情绪、镇定心神，平息静气，在新疆,很多维吾尔医院也用薰衣草全草制剂来治疗神经衰弱和失眠。女性各种因荷尔蒙失调而引起的情绪问题,如:经前紧张症、更年期抑郁症、产后忧郁症等等,也都可以利用直接吸嗅或按摩来改善症状
+        </view>
+    </view>
+</view>
+</view>

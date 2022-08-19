@@ -1,0 +1,19 @@
+<view class="containner">
+<view class="bac14"></view>
+<image class="picture" src="/images/word2.png" mode="aspectFill"></image>
+<view class="textword">龙涎香</view>
+<view class="animal-word">来源</view>
+<view class="animal-word1">
+    <view class="animal-word2">
+    龙涎香是一种偶尔会在抹香鲸肠道里形成的腊状物质，抹香鲸对巨乌贼的嗜好，是龙涎香的来源。抹香鲸把巨乌贼一口吞下，但消化不了乌贼的鹦嘴。它们逐渐在小肠里形成一种粘稠的深色物质，这种物质即为龙涎香。它储存在结肠和直肠内，刚取出时臭味难闻，存放一段时间逐渐发香，胜麝香。
+    </view>
+</view>
+<view class="line"></view>
+<view class="animal-word" >功效</view>
+<view class="animal-word1">
+    <view class="animal-word2">
+        神昏气闷，心腹诸痛，手足不温，受寒病情加重，平时喜欢温暖之地等证，可以单独应用，也可以配伍苏合香、麝香、木香、丁香、熏陆、荜拔、檀香等药物配伍应用。瘕积块，可以单用，或者配伍大黄、蟅虫、三棱、莪术等药物配伍应用以消散癥结。咳喘气逆之证。
+    </view>
+</view>
+<view style="height: 160rpx;"></view>
+</view>

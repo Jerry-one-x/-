@@ -1,0 +1,62 @@
+<!-- 背景图包括品牌icon -->
+<view class="background">
+  <view class="background_img">
+    <image src="/images/tf_bg.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_brand">
+    <image src="/images/tf.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_line">
+    <image src="/images/bg_line.png" mode="aspectFit"></image>
+  </view>
+</view>
+
+<!-- 内容 -->
+<view class="content1">
+  <view class="content1_title">
+  <image src="/images/content_ppjj.png" mode="aspectFit"></image>
+  </view>
+  <view class="content1_body">
+    Tom Ford是由同名设计师在2005年四月创立的品牌，在美妆，服饰等方面均有涉猎，在时尚界具有极高地位。
+  </view>
+</view>
+<view class="content2">
+  <view class="content1_title">
+    <image src="/images/content_txs.png" mode="aspectFit"></image>
+  </view>
+  <view class="content2_body">
+    <view class="content2_txsimg">
+      <image src="/images/tmft.png" mode="aspectFit"></image>
+    </view>
+    <view class="content2_txstext">
+      <view class="content2_txs1">
+        汤姆·福特
+      </view>
+      <view class="content2_txs2">
+        美国设计师、编剧、导演、制作人。2005年创立同名品牌
+      </view>
+    </view>
+  </view>
+</view>
+<view class="content3">
+  <view class="content1_title">
+    <image src="/images/content_pprx.png" mode="aspectFit"></image>
+  </view>
+  <view class="content3_body">
+    <view class="content3_container">
+      <view class="cb_single">
+        <image src="/images/cclg.png" mode="aspectFit"></image>
+        <view>璀璨流光</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/jjmg.png" mode="aspectFit"></image>
+        <view>荆棘玫瑰</view>
+      </view>
+      <view class="cb_single">
+        <image src="/images/bsx.png" mode="aspectFit"></image>
+        <view>白麝香</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="blank"></view>

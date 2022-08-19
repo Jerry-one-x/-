@@ -1,0 +1,20 @@
+<view class="containner"> 
+<image src="/images/bac17.png" class="bac17"></image>
+<view class="flower-word">
+    <view class="flower-word1">植物香料</view>
+</view>
+<view class="animal-word">常见香料</view>
+    <navigator url="/pages/Lavender/Lavender" hover-class="none" >
+        <image class="animal-box" src="/images/bac18.png" mode="aspectFill"></image>
+        <view class="white-word">薰衣草香</view>
+    </navigator>
+    <navigator url="/pages/Iris/Iris" hover-class="none">
+        <image class="animal-box" src="/images/bac19.png" mode="aspectFill"></image>
+        <view class="white-word">鸢尾香</view>
+    </navigator>
+    <navigator url="/pages/Rosemary/Rosemary" hover-class="none">
+        <image class="animal-box" src="/images/word1.png" mode="aspectFill"></image>
+        <view class="white-word">迷迭香</view>
+    </navigator>
+    <view style="height: 100rpx;"></view>
+</view>

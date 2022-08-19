@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/flower-img6.png" class="bac8" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">柠檬精油</view>
+    <view class="rose-box1" style="height: 362rpx;">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            原产于印度，这是一种常绿植物，可以长到6m高，叶片黑绿色、卵形、边缘带锯齿，花色粉色或白色，香味浓郁。树带刺，果实成熟过程，由绿变黄。这种树是由十字军战士在中世纪时期带入欧洲的。它的果实含有丰富的维生素A、B、C，在皇家海军中，每人每天喝1盎司的柠檬汁，以预防坏血病和其他维生素缺乏症。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            柠檬清新的香气，可以提神醒脑、振奋精神，缓解烦躁，净化空气。柠檬精油 对于皮肤及身体也有很多积极的调理作用。柠檬精油中的柠檬烯特别有益于美白、收敛、平衡油脂分泌、治疗青春痘等油性皮肤症状。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>压榨</view>
+            <view>芸香科柑橘亚属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>果皮</view>
+        </view>
+    </view>
+</view>
+</view>

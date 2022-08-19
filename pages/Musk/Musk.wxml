@@ -1,0 +1,19 @@
+<view class="containner">
+<view class="bac16"></view>
+<image class="picture" src="/images/bac16.png" mode="aspectFill"></image>
+<view class="textword" style="margin-left:90rpx">麝香</view>
+<view class="animal-word">来源</view>
+<view class="animal-word1">
+    <view class="animal-word2" style="margin-top: 16rpx;">
+        麝香是从一种称为麝的动物身上提取的，麝是一种鹿科动物，雄麝腹部脐下有麝香腺，该部位可以分泌麝香，产生的香气可以引诱雌麝。林麝体长约75cm，体重约10kg。毛色较深，深褐色或灰褐色。
+    </view>
+</view>
+<view class="line"></view>
+<view class="animal-word" >功效</view>
+<view class="animal-word1">
+    <view class="animal-word2">
+        闭证神昏：麝香辛温，气极香，走窜之性甚烈，有很强的开窍通闭、辟秽化浊作用，为醒神回苏之要药。血瘀经闭，症瘕，心腹暴痛，头痛，跌打损伤，风寒湿痹：本品辛香，开通走窜，可行血中之瘀滞，开经络之壅遏，而具活血通经、止痛之效。
+    </view>
+</view>
+<view style="height: 160rpx;"></view>
+</view>

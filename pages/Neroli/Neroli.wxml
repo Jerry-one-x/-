@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac4.png" class="bac4" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">橙花精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too" style="margin-top: 16rpx; ">
+            橙花是指苦橙的白色花瓣，主要来源为法国南部、摩洛哥、埃及、意大利，精油为采用蒸馏法而得，接近透明的浅黄，价格昂贵，因为其产出比和玫瑰几乎一样少，100公斤才可生产80公克，为带有点苦味、药味的百合花香味。17世纪，意大利Neroli郡的郡主，安娜·玛利亚·德拉切莫依，最喜欢橙花的气味，她用这种植物的精华香薰衣服和全身，将这气味带到了上流社会，被上流社会接受和广泛喜爱。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            具有镇定神经作用，治疗失眠的好处方，还可改善神经痛、头痛和眩晕，舒缓筋骨，放松肌肉。催眠，使人精神愉快，安抚内分泌失调造成的情绪燥郁，改善睡眠，克服沮丧焦虑，改善更年期烦躁情绪。橙花具有惊人的安抚心灵的作用。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>蒸馏</view>
+            <view>芸香科柑橘属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>花瓣</view>
+        </view>
+    </view>
+</view>
+</view>

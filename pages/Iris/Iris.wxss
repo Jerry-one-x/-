@@ -1,0 +1,96 @@
+.bac19{
+    position: relative;
+    height: 288rpx;
+    width: 750rpx;
+    background-color:rgba(184, 194, 242, 1);
+}
+.picture{
+    position: relative;
+    width: 250rpx;
+    height: 250rpx;
+    margin-top: -172rpx;
+    margin-left: 54rpx;
+    border-radius: 30rpx;
+    opacity: 0.9;
+}
+.Lavender{
+    width: 676rpx;
+    height: 1094rpx;
+    margin-left: 38rpx;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.line{
+    width: 644rpx;
+    height: 8rpx;
+     /* opacity: 1; */
+    background: rgba(0, 0, 0, 1); 
+}
+.Lavender-box1{
+    margin-top: 20rpx;
+    width: 644rpx;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 40rpx;
+    color: rgba(56, 56, 56, 1);
+}
+.Lavender-boxword1{
+    text-align: center;
+    height: 59rpx;
+    width: 172rpx;
+}
+.Lavender-boxword2{
+    height: 59rpx;
+    width: 172rpx;
+    text-align: center;
+}
+.Lavender-box2{
+    margin-top: 80rpx;
+    width: 644rpx;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 32rpx;
+    color: rgba(56, 56, 56, 1);
+}
+.Lavender-boxword3{
+    text-align: center;
+    height: 59rpx;
+    width: 236rpx;
+}
+.Lavender-boxword4{
+    height: 59rpx;
+    width: 236rpx;
+    text-align: center;
+}
+.Lavender-box3{
+    margin-top: 44rpx;
+    margin-left: -360rpx;
+    width: 96px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);        
+    border-radius: 50rpx;
+    line-height: 60rpx;
+    text-align: center;
+}
+.Lavender-box4{
+    margin-top: 38rpx;
+    width: 673rpx;
+    height: 380rpx;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 2px 4px 0px  rgba(0, 0, 0,0.25);
+    border-radius: 46rpx;
+}
+.Lavender-boxword5{
+    /** 文本1 */
+    width: 630rpx;
+    margin-left: 22rpx;
+    margin-top: 24rpx;
+    font-size: 32rpx;
+    letter-spacing: 0px;
+    color: rgba(0, 0, 0, 1);
+    letter-spacing: 4rpx;
+}

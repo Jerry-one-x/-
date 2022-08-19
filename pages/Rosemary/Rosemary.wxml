@@ -1,0 +1,33 @@
+<view class="containner"> 
+<view class="bac20"></view>
+<image class="picture" src="/images/word1.png" mode="aspectFill"></image>
+<view class="textword" style="margin-left:96rpx;margin-top: -150rpx;">迷迭香</view>
+<view class="Lavender">
+    <view class="line" style="margin-top: 18rpx;"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">植物科属</view>
+        <view class="Lavender-boxword2">利用部分</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">唇形科迷迭香属</view>
+        <view class="Lavender-boxword4">枝叶</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box1">
+        <view class="Lavender-boxword1">产地</view>
+        <view class="Lavender-boxword2">别名</view>
+    </view>
+    <view class="Lavender-box2">
+        <view class="Lavender-boxword3">欧洲</view>
+        <view class="Lavender-boxword4">海洋之露</view>
+    </view>
+    <view class="line"></view>
+    <view class="Lavender-box3">功效</view>
+    <view class="Lavender-box4">
+        <view class="Lavender-boxword5">
+            从迷迭香的花和叶子中能提取具有优良抗氧化性的抗氧化剂和迷迭香精油。迷迭香是一种名贵的天然香料植物，生长季节会散发一种清香气味，有清心提神的功效，英国诺森比亚大学研究显示，迷迭香的独特气味可以增强人们的记忆力，提升回溯性记忆和前瞻性记忆能力。
+        </view>
+    </view>
+</view>
+</view>
+

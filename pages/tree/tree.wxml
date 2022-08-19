@@ -1,0 +1,28 @@
+<view class="containner" style="height:1940rpx">
+<image src="/images/img3.png" class="bac9" ></image>
+<view class="flower-word">
+    <view class="flower-word1">木香型香氛</view>
+</view>
+<view class="flower">
+    <view class="flower-word2" style="margin-top: 22rpx;">原料</view>
+    <view class="flower-word3" style="height: 424rpx;">
+        <view class="flower-word3too" >
+            木质香调是香水家族中的一个庞大分支，可用于调制香水的木材原料种类繁多，香味也千姿百态，包括檀香木、雪松、橡木、松木、乌木等等；还有一些虽算不上树木，但气味闻起来具有木质香气的原材料也被划入了木材香料的范围。
+        </view>
+    </view>
+    <view class="line"></view>
+    <view class="flower-word2 two">常见精油</view>
+        <navigator url="/pages/fir/fir" hover-class="none">
+            <image src="/images/bac10.png" class="flower-img" mode="aspectFill"></image>
+            <view class="white-word">杉木精油</view>
+        </navigator>
+        <navigator url="/pages/pine/pine" hover-class="none">
+            <image src="/images/bac11.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">松木精油</view>
+        </navigator>
+        <navigator url="/pages/sandalwood/sandalwood" hover-class="none">
+            <image src="/images/bac12.png" class="flower-img"  mode="aspectFill"></image>
+            <view class="white-word">檀香木精油</view>
+        </navigator>
+</view>
+</view>

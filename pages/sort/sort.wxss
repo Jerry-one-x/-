@@ -1,0 +1,90 @@
+.bac{
+    position: relative;
+    width: 750rpx;
+    height: 486rpx;
+     /* opacity: 1; */
+    /* background:  rgba(204, 204, 204, 1);  */
+}
+.flavor{
+    width: 674rpx;
+    display: flex;
+    position: relative;
+    flex-direction:column;
+    align-items: center;
+    margin-left: 38rpx;
+    margin-top: -290rpx;
+    /* background-color:red; */
+}
+.line{
+    width: 644rpx;
+    height: 8rpx;
+     /* opacity: 1; */
+    background: rgba(0, 0, 0, 1); 
+}
+.flavor-word{
+    width: 80rpx;
+    height: 20rpx;
+    margin-left: -508rpx;
+    font-size: 40rpx;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+}
+.flavor-box{
+    margin-top: 56rpx;
+    width: 674rpx;
+    height: 306rpx;
+    display: flex;
+    flex-direction:column;
+    /* justify-content: center; */
+    align-items: center;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 44rpx;
+
+}
+.flavor-box-img{
+    height: 184rpx;
+    margin-top: 28rpx;
+    width: 642rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 184rpx;
+    height: 184rpx;
+    border-radius: 50%;
+    background:  rgba(204, 204, 204, 1);
+}
+.flavor-box-word{
+    width: 642rpx;
+    height: 58rpx;
+    margin-top: 18rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.word{
+    width: 184rpx;
+    text-align: center;
+    font-size: 40rpx;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+}
+.two{
+    margin-top: 88rpx;
+}
+.spices-box-img{
+    height: 184rpx;
+    margin-top: 28rpx;
+    width: 642rpx;
+    display: flex;
+    justify-content: space-around;
+}
+.spices-box-word{
+    width: 642rpx;
+    height: 58rpx;
+    margin-top: 18rpx;
+    display: flex;
+    justify-content: space-around;
+}
+

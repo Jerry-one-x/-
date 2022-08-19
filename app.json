@@ -1,0 +1,72 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/sort/sort",
+    "pages/mine/mine",
+    "pages/flower/flower",
+    "pages/rose/rose",
+    "pages/Cananga_odorata/Cananga_odorata",
+    "pages/Neroli/Neroli",
+    "pages/citrus/citrus",
+    "pages/bergamot/bergamot",
+    "pages/Grapefruit/Grapefruit",
+    "pages/Lemon/Lemon",
+    "pages/tree/tree",
+    "pages/fir/fir",
+    "pages/pine/pine",
+    "pages/sandalwood/sandalwood",
+    "pages/plant/plant",
+    "pages/animal/animal",
+    "pages/Ambergris/Ambergris",
+    "pages/Beaver/Beaver",
+    "pages/Musk/Musk",
+    "pages/Lavender/Lavender",
+    "pages/Iris/Iris",
+    "pages/Rosemary/Rosemary",
+    "pages/skill/skill",
+    "pages/note/note",
+    "pages/feedback/feedback",
+    "pages/home/daily/daily",
+    "pages/home/brand/channel/channel",
+    "pages/home/brand/zml/zml",
+    "pages/home/brand/jl/jl",
+    "pages/home/brand/dior/dior",
+    "pages/home/brand/lk/lk",
+    "pages/home/brand/tf/tf"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#0A0A0A",
+    "navigationBarTitleText": "邂逅",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#8e8e8e",
+    "selectedColor": "#121212",
+    "backgroundColor": "#ededed",
+    "borderStyle": "white",
+    "list": [{
+        "pagePath": "pages/home/home",
+        "text": "主页",
+        "iconPath":"/icon/home.png" ,
+        "selectedIconPath":"/icon/_home.png"
+    },
+    {
+      "pagePath":  "pages/sort/sort",
+      "text": "分类",
+      "iconPath": "/icon/func.png",
+      "selectedIconPath": "/icon/_func.png"
+  }
+,
+{
+  "pagePath":  "pages/mine/mine",
+  "text": "我的",
+  "iconPath": "/icon/mine.png",
+  "selectedIconPath": "/icon/_mine.png"
+  
+}]
+},
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

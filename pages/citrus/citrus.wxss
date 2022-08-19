@@ -1,0 +1,81 @@
+.bac5{
+    position: relative;
+    width: 750rpx;
+    height: 338rpx;
+    opacity: 0.6;
+}
+.flower-word{
+    position: relative;
+    display: flex;
+    width: 750rpx;
+    height: 102rpx;
+    margin-top: -110rpx;
+    background-color: rgba(237, 235, 235, 0.5);
+    /* background-color: aqua; */
+}
+.flower-word1{
+    margin-top: 22rpx;
+    margin-left: 56rpx;
+    font-size: 48rpx;
+}
+.flower{
+    width: 676rpx;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 37rpx;
+    /* background-color: red; */
+}
+.flower-word2{
+    width: 192rpx;
+    height: 64rpx;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 50rpx;
+    text-align: center;
+    margin-left: -474rpx;
+}
+.flower-word3{
+    width: 676rpx;
+    height: 378rpx;
+    margin-top: 38rpx;
+    display: flex;
+    justify-content: center;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    font-size: 32rpx;
+    border-radius: 30rpx;
+}
+.flower-word3too{
+    width: 640rpx;
+    height: 378rpx;
+}
+.line{
+    width: 644rpx;
+    height: 8rpx;
+    margin-top: 34rpx;
+     /* opacity: 1; */
+    background: rgba(0, 0, 0, 1); 
+}
+.two{
+    margin-top: 38rpx;
+}
+.flower-img{
+    margin-top: 66rpx;
+    height: 208rpx;
+    background:  rgba(204, 204, 204, 1);
+    border-radius: 46rpx;
+    opacity: 0.7;
+}
+.white-word{
+    width: 266rpx;
+    height: 82rpx;
+    position: absolute;
+    margin-left: 22rpx;
+    margin-top: -142rpx;
+    font-size: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    /* background-color: aqua; */
+}

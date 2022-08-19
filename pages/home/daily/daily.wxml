@@ -1,0 +1,42 @@
+<!-- 背景和品牌 -->
+<view class="background">
+  <view class="background_img">
+    <image src="/images/daily_bg.png" mode="aspectFit"></image>
+  </view>
+  <view class="bg_brand">
+    <image src="/images/daily.png" mode="aspectFit"></image>
+  </view>
+</view>
+
+<!-- 品牌文字 -->
+<view class="description">
+<view class="de_text1">GABRIELLE    CHANEL</view>
+<view class="de_line"></view>
+<view class="de_text2">嘉柏丽尔天性香水</view>
+</view>
+
+<!-- 内容 -->
+<view class="content">
+  <view class="content_head">
+  产品描述
+  </view>
+  <view class="content_body">
+    一款极为耀目，柔和深邃的花香调香水，由香奈儿第四代专属调香师奥利维耶·波巨创作。以嘉柏丽尔·香奈儿为灵感，激励女性，释放自我天性，敢于真实表达，展露自身光芒。四面纤薄的瓶壁令方形瓶身中的香氛仿若悬浮于空中，动人光泽全然闪耀。标签和瓶盖呈现如出一辙的方形轮廓和与香氛呼应的暖金色调。
+  </view>
+</view>
+<view class="content">
+  <view class="content_head">
+  嗅觉氛围
+  </view>
+  <view class="content_body">
+    由四种白色花卉勾勒出如梦似幻的花香调。饱满浓郁的异域茉莉、香气明媚的依兰，晶莹清晰的橙花以及细腻柔美的格拉斯晚香玉。尤为独到的是，调香师调整了香氛结构中格拉斯晚香玉的比重，令香氛的余韵耐人寻味。
+  </view>
+</view>
+<view class="content">
+  <view class="content_head">
+    创作灵感
+  </view>
+  <view class="content_body">
+    嘉柏丽尔是可可·香奈儿的本名，她敢于打破规则，书写自己的传奇，她自由充满激情，自己决定想成为谁。选择嘉柏丽尔系列香氛作品，展现真实自我，开创属于自己的道路，成为光芒四射的女性。
+  </view>
+</view>

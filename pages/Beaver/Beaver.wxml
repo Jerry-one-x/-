@@ -1,0 +1,19 @@
+<view class="containner">
+<view class="bac15"></view>
+<image class="picture" src="/images/bac15.png" mode="aspectFill"></image>
+<view class="textword" style="margin-left:90rpx">海狸香</view>
+<view class="animal-word">来源</view>
+<view class="animal-word1">
+    <view class="animal-word2">
+        海狸香是指捕杀海狸切取香囊，经干燥取出的海狸香呈褐色树脂状。将海狸香稀释成乙醇酊剂，即释放出愉快的温和的动物香气。 在海狸的生殖器附近有两个梨状腺囊,其内的白色乳状粘稠液即为海狸香,雄雌两性海狸均有分泌。
+    </view>
+</view>
+<view class="line"></view>
+<view class="animal-word" >功效</view>
+<view class="animal-word1">
+    <view class="animal-word2" style="margin-top: 40rpx;">
+        海狸香具有通窍活络，镇惊止痛，清热解毒的功效。海狸香用于肢体瘫痪，四肢麻木，手足搐搦，小儿惊风，目赤肿痛等病症。
+    </view>
+</view>
+<view style="height: 160rpx;"></view>
+</view>

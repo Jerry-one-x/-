@@ -1,0 +1,40 @@
+<view class="containner">
+    <image class="bac21" src="/images/bac21.png" mode="aspectFill"  ></image>
+<view class="mine-box4">
+
+        <view class="mine-box">
+            <open-data type="userAvatarUrl" class="bac23" 
+            hidden="{{!statusTag}}" ></open-data>
+            <image class="bac22" src="/images/bac22.png" mode="aspectFill" hidden="{{statusTag}}"></image>
+        </view>
+        <button class="login" bindtap="login" style="width: 230rpx;margin-left: -210rpx; " >点击登录</button>
+        <view class="mine-box5">您好！
+            <open-data type="userNickName" class="bac24" hidden="{{!statusTag}}" ></open-data>
+        </view>
+
+</view>
+
+
+
+
+
+<navigator url="/pages/skill/skill" hover-class="nones">
+    <view class="mine-box1">
+        <view class="mine-box3">使用技巧</view>
+        <image src="/images/arrow.png" class="mine-img" mode="aspectFill"></image>
+    </view>
+</navigator>
+<navigator url="/pages/note/note" hover-class="none">
+    <view class="mine-box2">
+        <view class="mine-box3">注意事项</view>
+        <image src="/images/arrow.png" class="mine-img" mode="aspectFill"></image>
+    </view>
+</navigator>
+<navigator url="/pages/feedback/feedback" hover-class="none">
+    <view class="mine-box2">
+        <view class="mine-box3">意见反馈</view>
+        <image src="/images/arrow.png" class="mine-img" mode="aspectFill"></image>
+    </view>
+</navigator>
+
+</view>

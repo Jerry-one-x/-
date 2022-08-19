@@ -1,0 +1,43 @@
+<view class="containner">
+<image src="/images/bac.png" class="bac"  style="opacity:{{0.8}}"></image>
+<view class="flavor">
+    <view class="line"></view>
+    <view class="flavor-word">香型</view>
+    <view class="flavor-box">
+        <view class="flavor-box-img">
+            <navigator url="/pages/flower/flower" hover-class="none" >
+                <image class="img" src="/images/img1.png"></image>
+            </navigator>
+            <navigator url="/pages/citrus/citrus" hover-class="none">
+                <image class="img" src="/images/img2.png"></image>
+            </navigator>
+            <navigator url="/pages/tree/tree" hover-class="none">
+                <image class="img" src="/images/img3.png"></image>
+            </navigator>
+        </view>
+        <view class="flavor-box-word">
+            <view class="word">花香型</view>
+            <view class="word">柑橘型</view>
+            <view class="word">木香型</view>
+        </view>
+    </view>
+    <view class="line two"></view>
+    <view class="flavor-word">香料</view>
+    <view class="flavor-box">
+        <view class="spices-box-img">
+            <navigator url="/pages/plant/plant" hover-class="none">
+                <image class="img" src="/images/word1.png"></image>
+            </navigator>
+            <navigator url="/pages/animal/animal" hover-class="none">
+            <image class="img" src="/images/word2.png"></image>
+            </navigator>
+        </view>
+        <view class="spices-box-word">
+            <view class="word">植物香料</view>
+            <view class="word">动物香料</view>
+        </view>
+    </view>
+</view>
+</view>
+
+

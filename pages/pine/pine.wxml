@@ -1,0 +1,38 @@
+<view class="containner">
+<image src="/images/bac11.png" class="bac11" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">松木精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            松木是一种针叶植物（常见的针叶植物有松木、杉木、柏木），它具有松香味、色淡黄、疖疤多、对大气温度反应快、容易胀大、极难自然风干等特性，故需经人工处理，如烘干、脱脂去除有机化合物，漂白统一树色，中和树性，使之不易变形。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            神经系统的镇静剂，情绪低落时的抗忧郁剂，对病愈的虚弱身体有益。松树精油温暖的特性，可以缓解面部肌肉僵硬的症状，同时，松树精油也有很好的抗菌消炎效果，可以应用于面部。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>蒸馏</view>
+            <view>云杉科</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view style="margin-left: 22px;">强</view>
+            <view style="margin-left: 40px;">嫩叶及果实</view>
+        </view>
+    </view>
+</view>
+</view>
+

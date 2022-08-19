@@ -1,0 +1,37 @@
+<view class="containner">
+<image src="/images/bac6.png" class="bac6" mode="aspectFill"></image>
+<view class="rose">
+    <view class="rose-word1">佛手柑精油</view>
+    <view class="rose-box1">
+        <view class="rose-box1too" style="margin-top: 26rpx;">
+            佛手柑精油是意大利佛手柑果实中提取的，佛手柑属于芸香科。这种精油味道清新，在芳香疗法中是令人喜爱的，能创造一种放松和愉快的感觉。佛手柑精油压榨自佛手柑的果皮，精油呈翠绿色，味道较清新，类似橙和柠檬，略带花香。佛手柑的叶色泽苍翠，四季常青。佛手的果实色泽金黄，香气浓郁，形状奇特似手，千姿百态，让人感到妙趣横生。佛手不仅有较高的观赏价值，而且具有珍贵的药用价值、经济价值。
+        </view>
+    </view>
+    <view class="rose-word">功效</view>
+    <view class="rose-box2">
+        <view class="rose-box2too">
+            佛手柑精油可以说是居家的小护士，具有多方面的功效：止痛、抗沮丧、抗菌、抗痉挛、退肠胃胀气、促进伤口愈合、兴奋、除臭、利消化、化痰、退烧、杀虫、镇静、利胃、补身、治创伤、驱蠕虫。其最重要的三大功效是治疗尿道感染、治疗忧郁和焦虑及保护皮肤。
+        </view>
+    </view>
+    <view class="box-bottom">
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>萃取方法</view>
+            <view>植物科属</view>
+        </view>
+        <view class="box-bottomword2">
+            <view>压榨</view>
+            <view>芸香科柑橘属</view>
+        </view>
+        <view class="line"></view>
+        <view class="box-bottomword1">
+            <view>挥发性</view>
+            <view>提取部分</view>
+        </view>
+        <view class="box-bottomword2" style="margin-left: 0rpx;">
+            <view>强</view>
+            <view>果皮</view>
+        </view>
+    </view>
+</view>
+</view>
